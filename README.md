@@ -4,40 +4,40 @@ Each folder will contain some sub-directories depending on the number of impleme
 
 ## Edit distance
 
-[Python Implementation](http://github.com/alhparsa/something)
+- [x] [Python Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/1-edit%20distance/python/)
 
-[C Implementation](http://github.com/alhparsa/something)
+- [ ] [C Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/1-edit%20distance/C/)
 
-[JS Implementation](http://github.com/alhparsa/something)
+- [ ] [JS Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/1-edit%20distance/JS/)
 
 ## Regrex
 
-[Python Implementation](http://github.com/alhparsa/something)
+- [ ] [Python Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/2-Regrex/python/)
 
-[C Implementation](http://github.com/alhparsa/something)
+- [ ] [C Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/2-Regrex/C/)
 
-[JS Implementation](http://github.com/alhparsa/something)
+- [ ] [JS Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/2-Regrex/JS/)
 
 ## Realtime audio processor
 
-[JS Implementation](http://github.com/alhparsa/something)
+- [ ] [JS Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/3-RL%20audio/)
 
 ## Labeled English speech data
 
-[Python Implementation](http://github.com/alhparsa/something)
+- [ ] [Python Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/4-Labeled%20English%speech%data/)
 
 ## Pool of nodes
 
-[C Implementation](http://github.com/alhparsa/something)
+- [ ] [C Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/5-Pool%20of%20nodes/)
 
 ## Matrix multiplication
 
-[C Implementation](http://github.com/alhparsa/something)
+- [ ] [C Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/6-Matrix%20Multiplication/)
 
 ## LSTM Classifier
 
-[Python Implementation](http://github.com/alhparsa/something)
+- [ ] [Python Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/7-LSTM/)
 
 ## G2P implementation
 
-[Python Implementation](http://github.com/alhparsa/something)
+- [ ] [Python Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/8-G2P/)
