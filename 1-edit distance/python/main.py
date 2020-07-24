@@ -105,5 +105,4 @@ if __name__ == "__main__":
     str_a = sys.argv[1]
     str_b = sys.argv[2]
     print(
-        f'The minimum edit cost for words {str_a}\
-             and {str_b} is {lev(str_a,str_b)}')
+        f'The minimum edit cost for words {str_a} and {str_b} is {lev(str_a,str_b)}')
