@@ -6,17 +6,17 @@ Each folder will contain some sub-directories depending on the number of impleme
 
 - [x] [Python Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/1-edit%20distance/python/)
 
-- [ ] [C Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/1-edit%20distance/C/)
+- [x] [C Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/1-edit%20distance/c/)
 
-- [ ] [JS Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/1-edit%20distance/JS/)
+- [x] [JS Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/1-edit%20distance/js/)
 
 ## Regrex
 
 - [ ] [Python Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/2-Regrex/python/)
 
-- [ ] [C Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/2-Regrex/C/)
+- [ ] [C Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/2-Regrex/c/)
 
-- [ ] [JS Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/2-Regrex/JS/)
+- [ ] [JS Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/2-Regrex/js/)
 
 ## Realtime audio processor
 
@@ -24,7 +24,7 @@ Each folder will contain some sub-directories depending on the number of impleme
 
 ## Labeled English speech data
 
-- [ ] [Python Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/4-Labeled%20English%speech%data/)
+- [x] [Python Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/4-Labeled%20English%20speech%20data/)
 
 ## Pool of nodes
 
