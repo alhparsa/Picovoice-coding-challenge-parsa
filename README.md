@@ -22,26 +22,28 @@ Each folder will contain some sub-directories depending on the number of impleme
 
 # Not Done
 
-## Regrex
+## Regrex - not done
 
-- [ ] [Python Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/2-Regrex/python/)
+- [ ] Python Implementation
 
-- [ ] [C Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/2-Regrex/c/)
+- [ ] C Implementation
 
-- [ ] [JS Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/2-Regrex/js/)
+- [ ] JS Implementation
 
-## Realtime audio processor
+## Realtime audio processor - half way done
 
 - [ ] [JS Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/3-RL%20audio/)
 
 ## Pool of nodes
 
-- [ ] [C Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/5-Pool%20of%20nodes/)
+Have an idea on how to do it, already had a similar project done for my OS class, didn't have time to modify it to meet the requirements but would like to discuss the idea.
 
-## Matrix multiplication
+- [ ] C Implementation
 
-- [ ] [C Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/6-Matrix%20Multiplication/)
+## Matrix multiplication - not sure about the requirements
 
-## LSTM Classifier
+- [ ] C Implementation
 
-- [ ] [Python Implementation](https://github.com/alhparsa/Picovoice-coding-challenge-parsa/blob/master/7-LSTM/)
+## LSTM Classifier - forward pass only implemented
+
+- [ ] Python Implementation
