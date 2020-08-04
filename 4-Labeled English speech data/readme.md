@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 Sample data:
 
-[tedtalk links 0-6mins.csv](/links/tedtalk%20links%200-6mins.csv)
+[tedtalk links 0-6mins.csv](4-Labeled%20English%20speech%20data/links/tedtalk%20links%200-6mins.csv)
 
 2. Create an output folder
 3. Run the following command:
